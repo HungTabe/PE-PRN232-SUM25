@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "zH/LpttnWHLf4c0fTnD6vcd8A6f5IqU2pRWEKGZXexU=",
+  "Source": "SportShoeManagement.API",
+  "BasePath": "_content/SportShoeManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SportShoeManagement.API\\wwwroot",
+      "Source": "SportShoeManagement.API",
+      "ContentRoot": "C:\\Users\\trand\\Downloads\\PRN231_PE_SP25_01_031925\\Solution\\SportShoe.API\\SportShoe.API\\wwwroot\\",
+      "BasePath": "_content/SportShoeManagement.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\trand\\Downloads\\PRN231_PE_SP25_01_031925\\Solution\\SportShoe.API\\SportShoe.API\\wwwroot\\index.html",
+      "SourceId": "SportShoeManagement.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trand\\Downloads\\PRN231_PE_SP25_01_031925\\Solution\\SportShoe.API\\SportShoe.API\\wwwroot\\",
+      "BasePath": "_content/SportShoeManagement.API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "50w4qw1w7h",
+      "Integrity": "BWXU0jO4M2Bt4h3VnNAIX1/OT80GNpfS8T5509wCJN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.50w4qw1w7h.html",
+      "AssetFile": "C:\\Users\\trand\\Downloads\\PRN231_PE_SP25_01_031925\\Solution\\SportShoe.API\\SportShoe.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BWXU0jO4M2Bt4h3VnNAIX1/OT80GNpfS8T5509wCJN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 11:18:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "50w4qw1w7h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BWXU0jO4M2Bt4h3VnNAIX1/OT80GNpfS8T5509wCJN8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\trand\\Downloads\\PRN231_PE_SP25_01_031925\\Solution\\SportShoe.API\\SportShoe.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BWXU0jO4M2Bt4h3VnNAIX1/OT80GNpfS8T5509wCJN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 11:18:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BWXU0jO4M2Bt4h3VnNAIX1/OT80GNpfS8T5509wCJN8="
+        }
+      ]
+    }
+  ]
+}

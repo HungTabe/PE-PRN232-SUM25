@@ -1,0 +1,7 @@
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.csproj.AssemblyReference.cache
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.AssemblyInfoInputs.cache
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.AssemblyInfo.cs
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.csproj.CoreCompileInputs.cache
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trand\Downloads\PRN231_PE_SP25_01_031925\Solution\SportShoe.API\SportShoe.API\obj\Debug\net8.0\SportShoe.API.MvcApplicationPartsAssemblyInfo.cache

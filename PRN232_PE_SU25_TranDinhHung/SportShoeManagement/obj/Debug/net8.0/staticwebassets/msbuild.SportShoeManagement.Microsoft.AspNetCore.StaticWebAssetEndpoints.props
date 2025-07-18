@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SportShoeManagement/index.fmex3uvd5o.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fmex3uvd5o"},{"Name":"integrity","Value":"sha256-ueyqOLV4EffcpnbILmlSeGhEEnKLrNiHp1xRzB4p/nM="},{"Name":"label","Value":"_content/SportShoeManagement/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8696"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ueyqOLV4EffcpnbILmlSeGhEEnKLrNiHp1xRzB4p/nM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Jul 2025 15:06:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SportShoeManagement/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ueyqOLV4EffcpnbILmlSeGhEEnKLrNiHp1xRzB4p/nM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8696"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ueyqOLV4EffcpnbILmlSeGhEEnKLrNiHp1xRzB4p/nM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Jul 2025 15:06:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
